@@ -1,0 +1,14 @@
+C:\Users\bruno\source\repos\Sistema_de_controle_bancario\Sistema_de_controle_bancario\bin\Debug\net8.0\Sistema_de_controle_bancario.exe
+C:\Users\bruno\source\repos\Sistema_de_controle_bancario\Sistema_de_controle_bancario\bin\Debug\net8.0\Sistema_de_controle_bancario.deps.json
+C:\Users\bruno\source\repos\Sistema_de_controle_bancario\Sistema_de_controle_bancario\bin\Debug\net8.0\Sistema_de_controle_bancario.runtimeconfig.json
+C:\Users\bruno\source\repos\Sistema_de_controle_bancario\Sistema_de_controle_bancario\bin\Debug\net8.0\Sistema_de_controle_bancario.dll
+C:\Users\bruno\source\repos\Sistema_de_controle_bancario\Sistema_de_controle_bancario\bin\Debug\net8.0\Sistema_de_controle_bancario.pdb
+C:\Users\bruno\source\repos\Sistema_de_controle_bancario\Sistema_de_controle_bancario\obj\Debug\net8.0\Sistema_de_controle_bancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\Sistema_de_controle_bancario\Sistema_de_controle_bancario\obj\Debug\net8.0\Sistema_de_controle_bancario.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\Sistema_de_controle_bancario\Sistema_de_controle_bancario\obj\Debug\net8.0\Sistema_de_controle_bancario.AssemblyInfo.cs
+C:\Users\bruno\source\repos\Sistema_de_controle_bancario\Sistema_de_controle_bancario\obj\Debug\net8.0\Sistema_de_controle_bancario.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Sistema_de_controle_bancario\Sistema_de_controle_bancario\obj\Debug\net8.0\Sistema_de_controle_bancario.dll
+C:\Users\bruno\source\repos\Sistema_de_controle_bancario\Sistema_de_controle_bancario\obj\Debug\net8.0\refint\Sistema_de_controle_bancario.dll
+C:\Users\bruno\source\repos\Sistema_de_controle_bancario\Sistema_de_controle_bancario\obj\Debug\net8.0\Sistema_de_controle_bancario.pdb
+C:\Users\bruno\source\repos\Sistema_de_controle_bancario\Sistema_de_controle_bancario\obj\Debug\net8.0\Sistema_de_controle_bancario.genruntimeconfig.cache
+C:\Users\bruno\source\repos\Sistema_de_controle_bancario\Sistema_de_controle_bancario\obj\Debug\net8.0\ref\Sistema_de_controle_bancario.dll
